@@ -40,14 +40,6 @@ Given an image of a document (research paper, textbook page, scanned form), the 
 
 ---
 
-## 🎥 Demo
-
-| Input Document Image | Generated Markdown |
-|---------------------|--------------------|
-| ![sample](assets/sample_pair.png) | See notebook outputs |
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -242,8 +234,8 @@ Run the last cell in the notebook to launch the Gradio app. A public shareable l
 
 | Resource | Link |
 |----------|------|
-| 📝 Medium Blog Post | [Add your link here] |
-| 💼 LinkedIn Post | [Add your link here] |
+| 📝 Medium Blog Post |https://medium.com/p/ec6f48f6ad0e?postPublishedType=initial|
+| 💼 LinkedIn Post | https://www.linkedin.com/posts/urwa-sajid-134729248_generativeai-machinelearning-visionlanguagemodel-share-7458231960079855616-p0xN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1U83gBcIneLrKsHfxwQIrw807hV3UXRjs |
 | 🤗 Base Model | [Qwen2-VL-2B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) |
 | 📦 Dataset | [Nougat Dataset on Kaggle](https://www.kaggle.com/datasets/zphilip/nougat-training-dataset-example) |
 
